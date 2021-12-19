@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @MuhammadAhmedVohra
+- 👀 I’m interested in learning about computer languages and making small programs out of it  
+- 🌱 I’m currently learning computer science
+- 📫 My email is ahmedvohra787@gmail.com
